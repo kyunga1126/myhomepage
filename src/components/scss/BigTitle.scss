@@ -1,0 +1,12 @@
+.big-title-box{
+    font-size: 5rem;
+    line-height: 1;
+    span{
+        display: block;
+        /* Permalink - use to edit and share this gradient. 퍼머링크 - 이 그라디언트를 편집하고 공유하는 데 사용: https://colorzilla.com/gradient-editor/#ff8ba7+25,fcd5ce+68,fff5ec+90 */
+        background: linear-gradient(to bottom,  rgba(255,139,167,1) 25%,rgba(252,213,206,1) 68%,rgba(255,245,236,1) 90%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
